@@ -415,6 +415,9 @@ body{
     position: relative;
     width: 290px;
 }
+.about-content .image-2 img{
+    width: 100%;
+}
 .about-content .image-2::before{
     content: "";
     position: absolute;
